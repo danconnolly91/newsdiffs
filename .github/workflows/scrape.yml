@@ -30,4 +30,4 @@ jobs:
 
       - name: Run Newsdiffs scraper
         run: |
-          python newsdiffs/newsdiffs.py
+          python newsdiffs.py
